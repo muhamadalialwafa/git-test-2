@@ -10,7 +10,7 @@
 
 <body>
     <h1>coba git remote</h1>
-
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ea nesciunt officiis. Eum quisquam harum, doloremque magni similique porro aliquid laborum? Placeat commodi, beatae quaerat eaque voluptatum ab animi dolores.</p>
 
 </body>
 
